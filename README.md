@@ -6,4 +6,5 @@ Remember: the questions in the source material may change over time, and the que
 
 Source material:
 
+- [Professional Cloud Architect sample questions](https://docs.google.com/forms/d/e/1FAIpQLSf54f7FbtSJcXUY6-DUHfBG31jZ3pujgb8-a5io_9biJsNpqg/viewform)
 - [Professional Cloud Security Engineer sample questions](https://docs.google.com/forms/d/e/1FAIpQLSfSuKEE8cUQWj9sfak7QG9hpaljBC89Y22KoWMQFgoECZjzUg/viewform)
