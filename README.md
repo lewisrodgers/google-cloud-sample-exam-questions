@@ -1,6 +1,6 @@
 # google-cloud-sample-exam-questions
 
-These sample questions are sourced directly from Google Forms published by Google. The intent is to make the questions easier to access and refer back to while studying for the exam.
+These sample questions are sourced directly from Google Forms published by Google (linked below). The intent is to make the questions easier to access and refer back to while studying for the exam.
 
 The questions in the source material may change over time. For example, new case studies are introduced or questions are replaced. So the questions in this repo might be stale.
 
